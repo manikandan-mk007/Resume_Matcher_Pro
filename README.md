@@ -1,6 +1,3 @@
-Here is your content properly formatted in clean, professional **Markdown**:
-
----
 
 # 📄 Resume Classification and Matching System
 
@@ -32,7 +29,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
 
 ##  Features
 
@@ -44,13 +40,11 @@ streamlit run app.py
 *  Basic resume category classification
 *  Export results as CSV
 
----
 
 ##  Recommended Model
 
 * `sentence-transformers/all-MiniLM-L6-v2`
 
----
 
 ##  Future Improvements
 
@@ -60,5 +54,4 @@ streamlit run app.py
 *  ATS (Applicant Tracking System) integration
 *  Email notification system
 
----
 
