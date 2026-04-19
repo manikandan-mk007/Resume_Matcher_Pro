@@ -46,8 +46,8 @@ This system helps recruiters quickly identify the best candidates by analyzing s
 
 ##  Screenshots
 
-![App UI](app.png)
-![Results](results.png)
+![App UI](dashboard.png)
+![Results](result1.png) ![](result2.png) ![](finalresult.png)
 
 
 
